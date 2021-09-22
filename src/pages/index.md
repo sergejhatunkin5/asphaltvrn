@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Асфальтирование в воронеже
+title: Асфальтирование в Воронеже
 image: https://im0-tub-ru.yandex.net/i?id=1e13cd199bc67b7e2cb5d769523c4680&n=13
 heading: Асфальтирование
 subheading: По низким ценам!
